@@ -1,0 +1,53 @@
+# Hi, I'm Huang For Wa (lyimou) 👋
+
+**Computer Science undergraduate at HKUST.** I like the layer where software meets hardware — shrinking a neural network until it fits on a microcontroller, or writing the container the standard library already gives you, just to see how it works.
+
+- 🔭 Currently studying CS at **HKUST**
+- 🧠 Interested in **machine learning on constrained devices**, systems, and C++
+- 🛠️ Most of my work is Python and C++, with some JavaScript for fun
+- 📫 Reach me: `{{your-email@connect.hkust.hk}}`
+
+---
+
+## Featured projects
+
+### 🎴 [spire-climb-web](https://github.com/lyimou/spire-climb-web)
+A turn-based deck-building roguelike written in plain JavaScript — no framework, no build step.
+`JavaScript` · `HTML/CSS` · `{{live demo}}`
+
+### 🤖 [gsm-arduino-mnist](https://github.com/lyimou/gsm-arduino-mnist)
+Training a small neural network in Python, quantising its weights, and running inference **on an Arduino** over serial — measuring real on-device accuracy against MNIST.
+`Python` · `TensorFlow` · `Arduino/C++` · `pyserial`
+
+### 🌲 [data-structures-cpp](https://github.com/lyimou/data-structures-cpp)
+Hand-written data structures and OOP in C++11: a custom trie, a key-value BST with an LRU cache, and `shared_ptr`/`weak_ptr` built from scratch.
+`C++11` · `Makefile`
+
+### 📊 [machine-learning-labs](https://github.com/lyimou/machine-learning-labs)
+Jupyter notebooks implementing k-NN, naive Bayes, clustering and neural networks both from scratch and with scikit-learn.
+`Python` · `Jupyter` · `scikit-learn`
+
+### 🧩 [dsa-practice](https://github.com/lyimou/dsa-practice)
+Algorithm practice in C++, organised by technique, plus exercises on container internals.
+`C++`
+
+### 🔧 [python-utilities](https://github.com/lyimou/python-utilities)
+Small Python tools and a tested little library model.
+`Python`
+
+---
+
+## Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+<sub>📁 Full project index: [portfolio](https://github.com/lyimou/portfolio) · 🌐 {{https://lyimou.github.io}}</sub>
