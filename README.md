@@ -5,7 +5,7 @@
 - 🔭 Currently studying CS at **HKUST**
 - 🧠 Interested in **machine learning on constrained devices**, systems, and C++
 - 🛠️ Most of my work is Python and C++, with some JavaScript for fun
-- 📫 Reach me: `{{your-email@connect.hkust.hk}}`
+- 📫 Reach me: **fwhuang@connect.hkust.edu.hk**
 
 ---
 
@@ -13,9 +13,9 @@
 
 ### 🎴 [spire-climb-web](https://github.com/lyimou/spire-climb-web)
 A turn-based deck-building roguelike written in plain JavaScript — no framework, no build step.
-`JavaScript` · `HTML/CSS` · `{{live demo}}`
+`JavaScript` · `HTML/CSS`
 
-### 🤖 [gsm-arduino-mnist](https://github.com/lyimou/gsm-arduino-mnist)
+### 🤖 [arduino-mnist-inference](https://github.com/lyimou/arduino-mnist-inference)
 Training a small neural network in Python, quantising its weights, and running inference **on an Arduino** over serial — measuring real on-device accuracy against MNIST.
 `Python` · `TensorFlow` · `Arduino/C++` · `pyserial`
 
@@ -50,4 +50,4 @@ Small Python tools and a tested little library model.
 
 ---
 
-<sub>📁 Full project index: [portfolio](https://github.com/lyimou/portfolio) · 🌐 {{https://lyimou.github.io}}</sub>
+<sub>📁 Full project index: [portfolio](https://github.com/lyimou/portfolio)</sub>
