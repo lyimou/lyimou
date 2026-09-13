@@ -5,7 +5,7 @@
 - 🔭 Currently studying CS at **HKUST**
 - 🧠 Interested in **machine learning on constrained devices**, systems, and C++
 - 🛠️ Most of my work is Python and C++, with some JavaScript for fun
-- 📫 Reach me: **fwhuang@connect.hkust.edu.hk**
+- 📫 Reach me: **fwhuang@connect.ust.hk**
 
 ---
 
