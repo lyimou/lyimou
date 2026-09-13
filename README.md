@@ -57,4 +57,4 @@ Both contain only my own code; the surrounding coursework is excluded. Ask and I
 
 ---
 
-<sub>📁 Full project index: [portfolio](https://github.com/lyimou/portfolio)</sub>
+<sub>📁 Full project index and blog: **[lyimou.github.io](https://lyimou.github.io)**</sub>
