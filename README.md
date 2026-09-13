@@ -19,14 +19,6 @@ A turn-based deck-building roguelike written in plain JavaScript — no framewor
 Training a small neural network in Python, quantising its weights, and running inference **on an Arduino** over serial — measuring real on-device accuracy against MNIST.
 `Python` · `TensorFlow` · `Arduino/C++` · `pyserial`
 
-### 🌲 [data-structures-cpp](https://github.com/lyimou/data-structures-cpp)
-Hand-written data structures and OOP in C++11: a custom trie, a key-value BST with an LRU cache, and `shared_ptr`/`weak_ptr` built from scratch.
-`C++11` · `Makefile`
-
-### 📊 [machine-learning-labs](https://github.com/lyimou/machine-learning-labs)
-Jupyter notebooks implementing k-NN, naive Bayes, clustering and neural networks both from scratch and with scikit-learn.
-`Python` · `Jupyter` · `scikit-learn`
-
 ### 🧩 [dsa-practice](https://github.com/lyimou/dsa-practice)
 Algorithm practice in C++, organised by technique, plus exercises on container internals.
 `C++`
@@ -34,6 +26,21 @@ Algorithm practice in C++, organised by technique, plus exercises on container i
 ### 🔧 [python-utilities](https://github.com/lyimou/python-utilities)
 Small Python tools and a tested little library model.
 `Python`
+
+<details>
+<summary><b>Private repositories</b> — course material is not mine to redistribute</summary>
+
+<br>
+
+| Repository | What it is | Stack |
+| --- | --- | --- |
+| **data-structures-cpp** | Implementation-only excerpts: a custom trie, a key-value BST with an LRU cache, hand-written `shared_ptr`/`weak_ptr` | C++11 |
+| **machine-learning-labs** | k-NN, naive Bayes, clustering and neural networks — from scratch and with scikit-learn | Python, Jupyter |
+
+Both contain only my own code; the surrounding coursework is excluded. Ask and I'll grant access.
+
+</details>
+
 
 ---
 
