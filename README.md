@@ -3,8 +3,8 @@
 **Computer Science undergraduate at HKUST.** I like the layer where software meets hardware — shrinking a neural network until it fits on a microcontroller, or writing the container the standard library already gives you, just to see how it works.
 
 - 🔭 Currently studying CS at **HKUST**
-- 🧠 Interested in **machine learning on constrained devices**, systems, and C++
-- 🛠️ Most of my work is Python and C++, with some JavaScript for fun
+- 🧠 Interested in AI, games design, systems, and C++
+- 🛠️ Most of my work is Python and C++.
 - 📫 Reach me: **fwhuang@connect.ust.hk**
 
 ---
