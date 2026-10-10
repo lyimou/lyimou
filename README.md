@@ -1,4 +1,4 @@
-# Hi, I'm Huang For Wa (lyimou) 👋
+# Hi, I'm Andy (lyimou) 👋
 
 **Computer Science undergraduate at HKUST.** I like the layer where software meets hardware — shrinking a neural network until it fits on a microcontroller, or writing the container the standard library already gives you, just to see how it works.
 
